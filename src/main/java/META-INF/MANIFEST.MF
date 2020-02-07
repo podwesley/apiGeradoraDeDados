@@ -1,0 +1,2 @@
+Main-Class: br.com.generate.gen.GenApplication
+
